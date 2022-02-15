@@ -1,0 +1,17 @@
+[
+  {
+    "irontitle": "範例三",
+    "articles": [
+      {
+        "type": "Ubereat",
+        "title": "您最愛的美食，由 Uber 為您外送",
+        "href": "https://www.ubereats.com/tw",
+        "info": {
+          "success": true,
+          "count": 9,
+          "subscribe": 16
+        }
+      }
+    ]
+  }
+]

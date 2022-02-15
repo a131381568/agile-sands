@@ -1,0 +1,12 @@
+/* 前半 */
+.page-enter-active, .page-leave-active {
+  transition: opacity .3s
+}
+/* 中間 */
+.page-enter, .page-leave-to {
+  opacity: 0
+}
+/* 結束 */
+.page-enter-to, .page-leave {
+  opacity: 1
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "picurl": "img/picture/photo-001.jpg",
+    "title": "First slide label",
+    "caption": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+    "list": [
+      {
+        "name": "Allen",
+        "number": 18
+      },
+      {
+        "name": "Willson",
+        "number": 15
+      },
+      {
+        "name": "Billy",
+        "number": 26
+      }
+    ]
+  },
+  {
+    "picurl": "img/picture/photo-002.jpg",
+    "title": "Second slide label",
+    "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "list": [
+      {
+        "name": "Doggy",
+        "number": 11
+      },
+      {
+        "name": "Serena",
+        "number": 30
+      },
+      {
+        "name": "Henya",
+        "number": 28
+      },
+      {
+        "name": "Yami",
+        "number": 55
+      },
+      {
+        "name": "Emily",
+        "number": 40
+      }
+    ]
+  },
+  {
+    "picurl": "img/picture/photo-003.jpg",
+    "title": "Third slide label",
+    "caption": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
+    "list": [
+      {
+        "name": "Tony",
+        "number": 60
+      }
+    ]
+  }
+]
