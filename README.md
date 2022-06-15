@@ -1,5 +1,5 @@
 # agile-sands
-此為最初 Nuxt 2 測試其 SSR 與框架功能的範例，並嘗試佈署至 Heroku。
+此為最初 Nuxt 2 測試其 SSR 與框架功能的範例，並能夠佈署至 Heroku。
 
 ## Nuxt 相關
 
